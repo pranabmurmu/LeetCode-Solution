@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3700-number-of-zigzag-arrays-ii) |
+| [3783-mirror-distance-of-an-integer](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3783-mirror-distance-of-an-integer) |
 ## Array
 |  |
 | ------- |
