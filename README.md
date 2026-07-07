@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -20,6 +21,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1189-maximum-number-of-balloons) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
@@ -48,6 +50,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0169-majority-element) |
 | [1301-number-of-paths-with-max-score](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -61,6 +64,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0169-majority-element) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -84,6 +88,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0169-majority-element) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sliding Window
 |  |
