@@ -44,6 +44,7 @@
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0050-powx-n) |
 | [1025-divisor-game](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1025-divisor-game) |
 | [2769-find-the-maximum-achievable-number](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/2769-find-the-maximum-achievable-number) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3700-number-of-zigzag-arrays-ii) |
@@ -168,4 +169,8 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1051-height-checker) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
