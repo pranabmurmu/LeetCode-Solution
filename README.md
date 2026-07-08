@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1025-divisor-game](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1025-divisor-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3620-network-recovery-pathways) |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0053-maximum-subarray) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0169-majority-element) |
 | [1051-height-checker](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1051-height-checker) |
