@@ -13,7 +13,7 @@ public:
 
             if (arr[mid - 1] < arr[mid]) {
                 st = mid + 1;
-            } else if(arr[mid]>arr[mid+1]){
+            } else{
                 end = mid - 1;
             }
         }
