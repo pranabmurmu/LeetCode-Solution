@@ -63,6 +63,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0169-majority-element) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1051-height-checker](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1051-height-checker) |
 | [1301-number-of-paths-with-max-score](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -122,6 +123,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
