@@ -13,8 +13,8 @@ public:
             return nums[n - 1];
         }
 
-        int st = 1;
-        int end = n - 2;
+        int st = 0;
+        int end = n - 1;
 
         while (st <= end) {
             int mid = st + (end - st) / 2;
