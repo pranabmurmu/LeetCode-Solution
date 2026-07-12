@@ -6,6 +6,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -68,6 +69,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1051-height-checker](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1051-height-checker) |
 | [1301-number-of-paths-with-max-score](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -109,6 +111,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0169-majority-element) |
 | [1051-height-checker](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1051-height-checker) |
+| [1331-rank-transform-of-an-array](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sliding Window
