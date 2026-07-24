@@ -1,7 +1,7 @@
-#pragma GCC optimize("O3")
-#include <vector>
+// #pragma GCC optimize("O3")
+// #include <vector>
 
-using namespace std;
+// using namespace std;
 
 class Solution {
 public:
