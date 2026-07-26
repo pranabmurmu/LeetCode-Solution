@@ -52,6 +52,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0050-powx-n) |
+| [0628-maximum-product-of-three-numbers](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1025-divisor-game) |
 | [2769-find-the-maximum-achievable-number](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/2769-find-the-maximum-achievable-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -75,6 +76,7 @@
 | [0162-find-peak-element](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1051-height-checker](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1051-height-checker) |
 | [1301-number-of-paths-with-max-score](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1301-number-of-paths-with-max-score) |
@@ -127,6 +129,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0169-majority-element) |
+| [0628-maximum-product-of-three-numbers](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
