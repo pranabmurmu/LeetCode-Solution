@@ -87,6 +87,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
+| [0051-n-queens](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -292,4 +293,12 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1406-stone-game-iii) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
