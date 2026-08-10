@@ -51,6 +51,7 @@
 | [1140-stone-game-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1510-stone-game-iv) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -75,6 +76,7 @@
 | [1025-divisor-game](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1510-stone-game-iv) |
 | [2769-find-the-maximum-achievable-number](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -273,6 +275,7 @@
 | [1025-divisor-game](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1510-stone-game-iv) |
 ## Counting Sort
 |  |
 | ------- |
@@ -303,11 +306,13 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1510-stone-game-iv) |
 ## Backtracking
 |  |
 | ------- |
@@ -317,4 +322,12 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0051-n-queens) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
