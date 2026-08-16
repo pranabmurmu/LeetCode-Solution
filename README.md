@@ -41,6 +41,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1189-maximum-number-of-balloons) |
+| [2029-stone-game-ix](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -81,6 +82,7 @@
 | [1140-stone-game-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/2029-stone-game-ix) |
 | [2769-find-the-maximum-achievable-number](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -120,6 +122,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2029-stone-game-ix](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -167,6 +170,7 @@
 |  |
 | ------- |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -287,6 +291,7 @@
 | [1140-stone-game-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/2029-stone-game-ix) |
 ## Counting Sort
 |  |
 | ------- |
@@ -318,12 +323,14 @@
 | [1140-stone-game-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/2029-stone-game-ix) |
 ## Backtracking
 |  |
 | ------- |
@@ -337,6 +344,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
