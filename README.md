@@ -57,6 +57,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -82,6 +83,7 @@
 | [1140-stone-game-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/2029-stone-game-ix) |
 | [2769-find-the-maximum-achievable-number](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/2769-find-the-maximum-achievable-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -120,6 +122,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1563-stone-game-v) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2029-stone-game-ix](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/2029-stone-game-ix) |
@@ -291,6 +294,7 @@
 | [1140-stone-game-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/2029-stone-game-ix) |
 ## Counting Sort
 |  |
