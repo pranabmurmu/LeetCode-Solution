@@ -108,6 +108,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0051-n-queens](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0136-single-number) |
@@ -216,6 +217,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
@@ -250,6 +252,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
