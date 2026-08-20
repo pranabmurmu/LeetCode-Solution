@@ -114,6 +114,7 @@
 | [0136-single-number](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0486-predict-the-winner](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
@@ -154,6 +155,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -221,6 +223,7 @@
 | [0074-search-a-2d-matrix](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -254,6 +257,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3286-find-a-safe-walk-through-a-grid) |
