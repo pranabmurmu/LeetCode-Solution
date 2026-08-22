@@ -47,6 +47,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3978-unique-middle-element](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3978-unique-middle-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -154,6 +155,7 @@
 | [3737-count-subarrays-with-majority-element-i](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3978-unique-middle-element](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3978-unique-middle-element) |
 ## Divide and Conquer
 |  |
 | ------- |
