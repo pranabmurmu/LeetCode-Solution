@@ -110,6 +110,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0051-n-queens](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -260,6 +261,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1301-number-of-paths-with-max-score) |
@@ -336,6 +338,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0054-spiral-matrix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
