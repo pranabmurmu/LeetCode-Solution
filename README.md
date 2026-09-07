@@ -28,6 +28,7 @@
 | [0058-length-of-last-word](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0115-distinct-subsequences) |
 | [0344-reverse-string](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0344-reverse-string) |
+| [0940-distinct-subsequences-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0940-distinct-subsequences-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1927-sum-game) |
@@ -65,6 +66,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0940-distinct-subsequences-ii) |
 | [1025-divisor-game](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1301-number-of-paths-with-max-score) |
