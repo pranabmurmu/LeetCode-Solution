@@ -9,6 +9,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1386-cinema-seat-allocation) |
+| [1512-number-of-good-pairs](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1512-number-of-good-pairs) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -54,6 +55,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1189-maximum-number-of-balloons) |
+| [1512-number-of-good-pairs](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1512-number-of-good-pairs) |
 | [2029-stone-game-ix](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -109,6 +111,7 @@
 | [1140-stone-game-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1510-stone-game-iv) |
+| [1512-number-of-good-pairs](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1872-stone-game-viii) |
@@ -164,6 +167,7 @@
 | [1386-cinema-seat-allocation](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1563-stone-game-v) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1872-stone-game-viii) |
