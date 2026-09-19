@@ -113,6 +113,7 @@
 | [0877-stone-game](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1140-stone-game-ii) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1512-number-of-good-pairs) |
@@ -479,4 +480,5 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
