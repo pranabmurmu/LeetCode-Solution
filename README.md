@@ -12,6 +12,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1512-number-of-good-pairs) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -98,6 +99,7 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1872-stone-game-viii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -179,6 +181,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1563-stone-game-v) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1872-stone-game-viii) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -284,6 +287,7 @@
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -307,6 +311,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
