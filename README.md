@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0169-majority-element) |
+| [1096-brace-expansion-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -34,6 +35,7 @@
 | [0115-distinct-subsequences](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0115-distinct-subsequences) |
 | [0344-reverse-string](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0344-reverse-string) |
 | [0940-distinct-subsequences-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -273,6 +275,7 @@
 | [0169-majority-element](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1051-height-checker) |
+| [1096-brace-expansion-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -324,6 +327,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -461,6 +465,7 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0051-n-queens) |
+| [1096-brace-expansion-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Algorithm X
 |  |
@@ -496,4 +501,8 @@
 | ------- |
 | [0836-rectangle-overlap](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1401-circle-and-rectangle-overlapping) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
