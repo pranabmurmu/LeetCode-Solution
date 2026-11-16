@@ -55,6 +55,7 @@
 | [1927-sum-game](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -483,6 +484,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/0054-spiral-matrix) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/pranabmurmu/LeetCode-Solution/tree/master/3867-sum-of-gcd-of-formed-pairs) |
